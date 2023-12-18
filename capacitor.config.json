@@ -1,0 +1,8 @@
+{
+  "appId": "com.ecom.app",
+  "appName": "ecommerce",
+  "webDir": "build",
+  "server": {
+    "androidScheme": "https"
+  }
+}
